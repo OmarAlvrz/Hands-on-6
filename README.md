@@ -1,4 +1,5 @@
 Thread ejemplo:
+
 Compilamos el archivo .c
 ![image](https://github.com/user-attachments/assets/a411008a-0f5c-4890-8433-5326f943d919)
  
